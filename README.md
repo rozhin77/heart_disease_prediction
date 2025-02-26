@@ -17,7 +17,7 @@ To install and set up:
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/heart_disease_prediction.git
+git clone https://github.com/rozhin77/heart_disease_prediction.git
 cd heart_disease_prediction
 
 # Install dependencies
